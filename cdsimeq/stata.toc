@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p cdsimeq Two-Stage Probit Least Squares (2 Stage Probit Least Squares) (2SPLS) Use cdsimeq With STATA 18
