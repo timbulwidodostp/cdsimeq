@@ -1,6 +1,8 @@
 # cdsimeq
 Two-Stage Probit Least Squares (2 Stage Probit Least Squares) (2SPLS) Use cdsimeq With STATA 18
 
+https://www.youtube.com/watch?v=G7UxY_GAq04
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
